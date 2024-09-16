@@ -1,0 +1,22 @@
+.back-to-top a{
+  position: fixed;
+  bottom: 2em;
+  inset-inline-end: 1em;
+  text-align: center;
+  gap: 0;
+  font-size: 20px;
+  padding: 10px 12px;
+  border-radius: 3px;
+  z-index: 999;
+  background-color: #8b0000;
+  color: #ffffff;
+  transition: background-color 0.3s, color 0.3s;;
+  /* padding-block-end: 0.5em 1em; */
+}
+.back-to-top a:hover{
+  background-color: #0a021c;
+  color: #ffffff;
+}
+html {
+  scroll-behavior: smooth;
+}
