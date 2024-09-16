@@ -2,7 +2,7 @@
   "name": "react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MahmoudAhmed56.github.io/ChadStore2",
+  "homepage": "https://MahmoudAhmed56.github.io/ChadStore3",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
